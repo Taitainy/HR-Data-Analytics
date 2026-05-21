@@ -9,6 +9,12 @@ This shifts focus to employee sentiment and performance. Engagement, satisfactio
 This dashboard captures the organization’s investment in employee development. With over $1.59 million spent on training across five programs, the completion rate is relatively low at 25.9%, raising questions about program effectiveness. Training outcomes are evenly split among completed, failed, incomplete, and passed categories, showing mixed success. Attendance data reveals a fairly balanced participation between internal and external programs. Departmental training costs are heavily skewed toward Production, which accounts for over $1 million, while IT/IS and Sales also receive significant investment. Training categories such as communication skills and project management show the highest costs, suggesting a focus on soft skills alongside technical development. Despite the large investment, the modest completion and success rates highlight a need to reassess training strategies to maximize impact.
 ### Overall Insight
 Taken together, these analysis reveals a picture of a large, experienced workforce with balanced gender and departmental distribution. However, engagement and satisfaction levels are moderate, and training investments are not yielding strong completion rates. The organization may need to focus on attracting younger talent, improving employee morale, and optimizing training programs to ensure that investments translate into measurable performance gains.
+## Recommendation
+1. Partner with universities and professional bodies to attract younger talent, balancing the age distribution of the workforce.
+2. Create mentorship programs where senior employees transfer knowledge to younger staff, ensuring continuity.
+3. Redistribute training funds to ensure IT/IS and Sales receive adequate investment, supporting innovation and customer-facing excellence.
+4. Launch recognition programs, flexible work policies, and wellness activities to quickly raise morale and engagement.
+5. Align recruitment, engagement, and training into a unified talent strategy that supports organizational growth.
 ## Dashboard
 <img width="960" height="540" alt="Screenshot 2026-05-20 202151" src="https://github.com/user-attachments/assets/e9407fe5-e9bc-4f2e-ae45-73d7152af8f1" />
 <img width="960" height="540" alt="Screenshot 2026-05-20 202129" src="https://github.com/user-attachments/assets/c8b530f9-65d3-46b1-a066-461be64a68f0" />
